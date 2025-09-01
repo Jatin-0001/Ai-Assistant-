@@ -11,6 +11,7 @@ It listens to user commands, processes them, and responds using text-to-speech.
 
 ## 📂 Project Structure
 AI-Assistant/
+
 │── main.py # Main Python script for the AI Assistant
 
 │── requirements.txt # Python dependencies
